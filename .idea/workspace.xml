@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c84cd34-c1e0-456c-b708-65ef274bef0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/model/Episodio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/main/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/main/Principal.java" afterDir="false" />
     </list>
