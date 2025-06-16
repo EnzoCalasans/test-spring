@@ -1,7 +1,9 @@
 package br.com.enzo.series.model;
 
-import java.util.Optional;
+import br.com.enzo.series.service.ConsultaGoogleTranslate;
+
 import java.util.OptionalDouble;
+
 
 public class Serie {
     private String titulo;
@@ -19,7 +21,7 @@ public class Serie {
         this.genero = Categoria.fromString(dadosSerie.genero().split(",")[0].trim());
         this.atores = dadosSerie.atores();
         this.poster = dadosSerie.poster();
-        this.sinopse = dadosSerie.sinopse();
+        this.sinopse = ConsultaGoogleTranslate.obterTraducao(dadosSerie.sinopse().trim());
     }
 
     public String getTitulo() {
