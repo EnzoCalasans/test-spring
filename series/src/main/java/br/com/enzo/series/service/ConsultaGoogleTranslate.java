@@ -11,7 +11,7 @@ import java.net.http.HttpResponse;
 
 public class ConsultaGoogleTranslate {
 
-    private static final String API_KEY = "AIzaSyAtqw6CyO9eF4-ddJvLHB9LtOUCNCswOSA"; // coloque sua chave da API aqui
+    private static final String API_KEY = System.getenv("GOOGLETRANSLATE_APIKEY"); // coloque sua chave da API aqui
 
     public static String obterTraducao(String texto) {
         try {
