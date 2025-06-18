@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c84cd34-c1e0-456c-b708-65ef274bef0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/repository/SerieRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/series/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/SeriesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/SeriesApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/main/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/main/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/model/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/model/Episodio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/model/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/model/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/service/ConsultaGoogleTranslate.java" beforeDir="false" afterPath="$PROJECT_DIR$/series/src/main/java/br/com/enzo/series/service/ConsultaGoogleTranslate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/series/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/series/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
